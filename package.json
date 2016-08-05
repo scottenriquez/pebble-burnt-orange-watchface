@@ -1,0 +1,24 @@
+{
+    "author": "scottie@enriquez.io",
+    "dependencies": {},
+    "keywords": [],
+    "name": "pebble-burnt-orange-watchface",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "pebble-burnt-orange-watchface",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "7fc2dc9e-1801-4920-9ada-989ef48bbdb5",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
